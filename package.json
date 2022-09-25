@@ -1,0 +1,19 @@
+{
+  "name": "com.khanekg.define-symbols-tool",
+  "version": "1.0.0",
+  "displayName": "Define Symbols Tool",
+  "description": "A light-weight tool to let you manipulate scripting define symbols. It utilizes Unity's Presets feature, so theoretically it supports Unity 2018.1 or higher.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/kg905812262/unity-define-symbols-tool.git",
+  "license": "MIT",
+  "keywords": [
+    "Define",
+    "Define Symbols",
+    "tool"
+  ],
+  "author": {
+    "name": "Kyle",
+    "email": "kg905812262@gmail.com"
+  },
+  "type": "tool"
+}
